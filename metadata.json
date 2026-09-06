@@ -1,0 +1,6 @@
+{
+  "name": "MedLens AI",
+  "description": "AI-powered medical report analyzer, prescription decipherer, and Jan Aushadhi generic medicine finder tailored for India's healthcare ecosystem.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
